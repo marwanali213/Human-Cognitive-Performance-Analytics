@@ -78,7 +78,7 @@ tensorflow
 The notebook includes comprehensive model evaluation metrics:
 - Mean Squared Error (MSE)
 - Mean Absolute Error (MAE)
-- R-squared (R²)
+
 
 ## Contributing
 Feel free to fork this project and submit pull requests for improvements.
