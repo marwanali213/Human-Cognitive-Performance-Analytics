@@ -1,7 +1,7 @@
 # Human Cognitive Performance Analysis
 
 ## Overview
-This project analyzes factors affecting human cognitive performance using machine learning techniques. The analysis explores various aspects of cognitive function including attention, memory, executive function, processing speed, learning, and perception.
+
 
 ## Dataset
 The dataset includes the following key features:
